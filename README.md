@@ -31,18 +31,18 @@ Here is a preview of the Calculator React App:
  - Click Clear to reset the input field.
 
 ## Project Structure
-   calculator-react-app/
-   ├── src/
-   │   ├── components/
-   │   │   ├── ButtonContainer.jsx
-   │   │   ├── ButtonState.jsx
-   │   │   ├── Display.jsx
-   │   │   ├── Heading.jsx
-   │   └── App.jsx
-   ├── public/
-   ├── package.json
-   ├── README.md
-   └── vite.config.js
+```bash calculator-react-app/
+         ├── src/
+         │   ├── components/
+         │   │   ├── ButtonContainer.jsx
+         │   │   ├── ButtonState.jsx
+         │   │   ├── Display.jsx
+         │   │   ├── Heading.jsx
+         │   └── App.jsx
+         ├── public/
+         ├── package.json
+         ├── README.md
+         └── vite.config.js
 
 ## Installation
 
@@ -51,7 +51,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator-react-app.git
+   git clone https://github.com/Harish-Xalxo/calculator-react-app.git
 
    ```
 
