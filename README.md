@@ -8,7 +8,6 @@ Here is a preview of the Calculator React App:
 
 ![Calculator Preview](public/calculator-preview.png)
 
-
 ## Features
 
 - Perform basic arithmetic operations (`+`, `-`, `*`, `/`).
@@ -26,12 +25,14 @@ Here is a preview of the Calculator React App:
 
 ## Usage
 
- - Enter numbers and operators using the calculator buttons.
- - Click Calculate to evaluate the expression.
- - Click Clear to reset the input field.
+- Enter numbers and operators using the calculator buttons.
+- Click Calculate to evaluate the expression.
+- Click Clear to reset the input field.
 
 ## Project Structure
-```bash calculator-react-app/
+
+````bash
+      calculator-react-app/
          ├── src/
          │   ├── components/
          │   │   ├── ButtonContainer.jsx
@@ -43,7 +44,7 @@ Here is a preview of the Calculator React App:
          ├── package.json
          ├── README.md
          └── vite.config.js
-
+````
 ## Installation
 
 Follow these steps to set up the project locally:
@@ -53,7 +54,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/Harish-Xalxo/calculator-react-app.git
 
-   ```
+````
 
 2. Navigate to the project directory:
 
@@ -79,7 +80,8 @@ Follow these steps to set up the project locally:
 5. Open the app in your browser at http://localhost:5173.
 
 ## License
- - This project is licensed under the MIT License.
+
+- This project is licensed under the MIT License.
 
 ---
 
