@@ -31,7 +31,7 @@ Here is a preview of the Calculator React App:
 
 ## Project Structure
 
-````bash
+```bash
       calculator-react-app/
          ├── src/
          │   ├── components/
@@ -44,38 +44,37 @@ Here is a preview of the Calculator React App:
          ├── package.json
          ├── README.md
          └── vite.config.js
-````
+```
 ## Installation
 
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/Harish-Xalxo/calculator-react-app.git
-
-````
+ ```
 
 2. Navigate to the project directory:
 
-   ```bash
+```bash
    cd calculator-react-app
 
-   ```
+ ```
 
 3. Install dependencies:
 
-   ```bash
+```bash
    npm install
 
-   ```
+```
 
 4. Start the development server:
 
-   ```bash
+```bash
    npm run dev
 
-   ```
+```
 
 5. Open the app in your browser at http://localhost:5173.
 
@@ -97,3 +96,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+````
